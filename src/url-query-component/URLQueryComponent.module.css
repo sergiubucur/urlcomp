@@ -1,0 +1,38 @@
+.container {
+  padding: 16;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.input {
+  border-radius: 5px;
+  padding: 8px;
+  width: 200px;
+  border: 1px solid #aaaaaa;
+  outline: 1px solid #00c0ff;
+  margin-right: 16px;
+}
+
+.button {
+  border: 0;
+  padding: 12px;
+  border-radius: 5px;
+  background: #0080c0;
+  color: #fff;
+}
+
+.success {
+  color: #008000;
+}
+
+.error {
+  color: #ff0000
+}
+
+.checkUrlButton {
+  margin-left: 16px;
+}
+
+.topMargin {
+  margin-top: 16px;
+}
